@@ -16,6 +16,6 @@
 * delete product
 * update product
 * view products
-*sort products on homepage
+* sort products on homepage
 
 
