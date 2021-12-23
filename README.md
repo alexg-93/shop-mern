@@ -10,3 +10,12 @@
 * `MongoDB`
 * `postman for api testing`
 
+## Features
+* ALL CRUD for API (colors,categories,brands,sizes,products)
+* create new product based on available specifications 
+* delete product
+* update product
+* view products
+*sort products on homepage
+
+
