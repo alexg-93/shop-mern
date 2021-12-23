@@ -1,6 +1,6 @@
 ### MERN Web App
 
-## Technologies applied
+
 
 # Client
 * `React`
