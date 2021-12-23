@@ -10,13 +10,15 @@ import brandRoutes from './routes/brandRoutes.js'
 import categoryRoutes from './routes/categoryRoutes.js'
 import colorRoutes from './routes/colorRoutes.js'
 import sizeRoutes from './routes/sizeRoutes.js'
-
+import path from 'path'
 
 dotenv.config()
 
 connectDB()
 
 const app = express();
+
+const __dirname = path.resolve()
 
 app.use(express.json())
 app.use(cors({
