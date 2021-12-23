@@ -1,13 +1,13 @@
 ### MERN Web App
 
-##Technologies applied
+## Technologies applied
 
-#Client
+# Client
 * `React`
 * `react-bootstrap for the UI`
 * `Redux for stage management`
 
-#Backend
+# Backend
 * `nodejs`
 * `MongoDB`
 * `postman for api testing`
